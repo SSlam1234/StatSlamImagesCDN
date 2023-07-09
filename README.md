@@ -1,0 +1,2 @@
+# StatSlamImagesCDN
+Statsl.am CDN
